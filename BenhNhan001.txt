@@ -1,0 +1,4 @@
+HoTen: Nguyen Van A
+NamSinh: 2001
+TinhTrang: ABC
+Khoa: HoiSuc-CapCuu
