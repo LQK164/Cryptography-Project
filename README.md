@@ -1,7 +1,7 @@
 # Cryptography-Project
--Encryption, Access Control, and Query in Cloud-Native DBMS
+- Encryption, Access Control, and Query in Cloud-Native DBMS
 
--Dependencies:
+- Dependencies:
   + charm-crypto 0.47
   + Python 3.7
   + tabulate 0.9
